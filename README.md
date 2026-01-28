@@ -1,17 +1,19 @@
 # 💫 Sobre mim:
 👩‍💻 Estudante de Ciência da Computação com atuação em desenvolvimento de sistemas e análise de dados  
-🔭 Atualmente trabalhando em projetos full stack, com foco em backend, organização de dados e integração de sistemas  
+🔭 Experiência em projetos full stack, com foco em backend, integração de sistemas e organização de dados  
 👯 Disponível para colaborar em qualquer tipo de projeto, acadêmico ou profissional, que envolva tecnologia e resolução de problemas  
-🤝 Aberta a contribuir com projetos institucionais, open-source, estudos aplicados ou iniciativas em fase inicial  
-🌱 Atualmente estudando Java Spring, arquitetura de software, bancos de dados e aplicações com IA  
-💬 Pergunte-me sobre Java, APIs, Power BI, modelagem de dados ou estruturação de soluções a partir de requisitos complexos  
-⚡ Curiosidade: mantenho constância e organização mesmo quando lido com múltiplas frentes de trabalho  
+🤝 Aberta a contribuir com projetos institucionais, open-source ou iniciativas em fase inicial  
+🌱 Em processo de migração para Engenharia de IA, com foco em RAG (Retrieval-Augmented Generation), LangChain e integração de modelos com bases de dados, mantendo Java como base principal  
+💬 Pergunte-me sobre Java, APIs, Power BI, modelagem de dados ou soluções com IA aplicadas a sistemas reais  
+⚡ Curiosidade: tenho facilidade em aprender tecnologias novas e manter constância mesmo em projetos longos e complexos  
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dallyla_ms)
 
 # 💻 Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +21,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
