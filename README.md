@@ -1,15 +1,17 @@
-# Olá, eu sou a Dallyla! 👋
+# Hi, I'm Dallyla! 👋
 
-**Estudante de Ciência da Computação | Engenharia de IA & Dev Backend**
+**Brazilian Computer Science Student 🇧🇷 | AI Engineering & Backend Development**
 
-Focada em desenvolver soluções em Inteligência Artificial e aplicações robustas, com forte base no ecossistema Java.
+Passionate about building intelligent solutions with Artificial Intelligence and robust backend applications, with a strong foundation in the Java ecosystem.
 
-🛠️ **Stack principal:** Java, Python, LangChain, React, TypeScript, SQL & Power BI.
+Currently focused on AI Engineering, Generative AI, RAG architectures, and scalable backend systems.
+
+🛠️ **Main stack:** Java, Python, LangChain, React, TypeScript, SQL & Power BI.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dallyla_ms)
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallylademoraes&theme=dark&hide_border=true" alt="Estatísticas de commits da Dallyla" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallylademoraes&theme=dark&hide_border=true" alt="Dallyla's GitHub streak stats" />
 </p>
